@@ -1,0 +1,45 @@
+h1
+{
+    font-family: 'Dancing Script', cursive;
+    margin: auto;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    text-align: center;
+}
+ 
+#table
+{
+    margin: auto;
+}
+ 
+td
+{
+    height: 400px;
+    width: 200px;
+    border: 6px solid white;
+}
+ 
+#one
+{
+    background: cyan;
+}
+ 
+#two
+{
+    background: darkgoldenrod;
+}
+ 
+#three
+{
+    background: darkmagenta;
+}
+ 
+#four
+{
+    background: dimgray;
+}
+ 
+#five
+{
+    background: forestgreen;
+}
