@@ -14,5 +14,3 @@ Spectrum V by Ellsworth Kelly.
 You will be creating your own smaller version for a webpage,  using what you’ve learned about the box model.
 
 You will also pick a color palette to use.
-
-![](images/Spectrum.png)
